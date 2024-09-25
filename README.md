@@ -63,6 +63,10 @@ https://marssihsaan.github.io/webtesting/
 ![CNN Model Screenshot](https://github.com/marssihsaan/implementation-cnn-model/blob/main/Screenshot%202024-06-10%20145518.png)
 ![CNN Model Screenshot](https://github.com/marssihsaan/implementation-cnn-model/blob/main/Screenshot%202024-06-10%20145832.png)
 
+## Deployment
+
+https://github.com/marssihsaan/deployment-flask-modelcnnjudol
+
 ## Conclusion
 
 This system and model work very effectively for detecting or classifying spam images of online gambling advertisements on a website homepage using a crawling system. Based on the detection results, out of the 2 spam images present, the system was able to detect all of them on the website, although there was 1 error where a non-gambling image was classified as gambling. This is quite reasonable, considering the accuracy achieved during training was 88%.
